@@ -1,18 +1,17 @@
-# Multi-Platform-Media-Controller-using-Voice-and-Gesture-Recognition
-## 🎙️🖐️ Voice & Gesture Controlled Media Assistant
+# Multiplatform-Media-Controller-using-Voice-and-Gesture-Recognition
 
 A Python-based media assistant that lets you control applications and media playback using **voice commands** and **hand gestures**. Switch between platforms like YouTube, Spotify, VLC, and more — completely hands-free!
 
-### 🚀 Features
+## Features
 
-#### 🗣️ Voice Control
+### 🗣️ Voice Control
 - Wake word: `hello media`
 - Open apps/websites (YouTube, Spotify, Netflix, Notepad, etc.)
 - Perform system actions: play, pause, next/previous track, volume control, mute
 - Dictate to Notepad
 - Enable/Disable gesture recognition via voice
 
-#### ✋ Gesture Control (via webcam)
+### ✋ Gesture Control (via webcam)
 - **Swipe Right** (middle finger): Next Track  
 - **Swipe Left** (middle finger): Previous Track  
 - **Thumbs Up**: Play/Pause  
@@ -21,7 +20,7 @@ A Python-based media assistant that lets you control applications and media play
 - **Index Down**: Volume Down
 
 
-### 🧠 Technologies Used
+## Technologies Used
 
 - Python
 - OpenCV
